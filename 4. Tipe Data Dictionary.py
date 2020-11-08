@@ -18,7 +18,9 @@ print(kamus['istri'])
 print(kamus['ayah'])
 print(kamus['ibu'])
 
+print('-' * 50)
 #atau dengan penulisan
+
 
 kamus = {'anak laki laki': 'son', 'anak perempuan': 'daughter', 'istri': 'wife', 'ayah': 'husband', 'ibu': 'mother'}
 
