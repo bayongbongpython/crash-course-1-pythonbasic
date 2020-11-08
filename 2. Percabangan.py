@@ -17,4 +17,5 @@ if ingin_cepat:
     print('Jakan lurus aja ya!')
 else:
     print('Jalan lain')
+    
 
