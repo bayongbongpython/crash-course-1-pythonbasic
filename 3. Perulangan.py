@@ -13,5 +13,6 @@ jumlah_mobil = 3
 
 for index_mobil in range(1, jumlah_mobil+1):
     print(f'Absen Mobil #{index_mobil}')
+    
 
 
