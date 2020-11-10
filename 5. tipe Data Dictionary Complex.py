@@ -6,6 +6,4 @@ data_dari_server_gojek = {
 
 print(data_dari_server_gojek)
 print(f"Driver disekitar sini {data_dari_server_gojek['driver_list']}")
-
-#to be continued
-
+print(f"Driver #1 {data_dari_server_gojek['driver_list'][3]}")
