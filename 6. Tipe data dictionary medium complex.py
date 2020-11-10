@@ -6,7 +6,7 @@ data_dari_server_gojek = {
         {'nama': 'Dwi', 'jarak': 15},
         {'nama': 'Tri', 'jarak': 20},
         {'nama': 'Catur', 'jarak': 25},
-]}
+    ]}
 
 print(data_dari_server_gojek)
 print(f"Driver disekitar sini {data_dari_server_gojek['driver_list']}")
