@@ -10,8 +10,8 @@ print(anak3)
 print(anak4)
 
 #Type data list/daftar/array
-anak = []
-anak.append('Eko')
-anak.append('Dwi')
-anak.append('Tri')
-anak.append('Catur')
+anak = ['Eko', 'Dwi', 'Tri', 'Catur']
+print(anak)
+anak.append('Panca')
+print(anak)
+
