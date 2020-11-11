@@ -22,4 +22,8 @@ print('\nSapa Semua Anak')
 for a in anak:
     print(f'Hai {a}!')
 
+print('\nSapa Semua Anak: Cara Ribet')
+for a in range(0, len(anak)):
+    print(f'{a+1}. Hai {anak[a]}')
+
 
