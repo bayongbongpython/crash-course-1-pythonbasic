@@ -8,3 +8,10 @@ print(anak1)
 print(anak2)
 print(anak3)
 print(anak4)
+
+#Type data list/daftar/array
+anak = []
+anak.append('Eko')
+anak.append('Dwi')
+anak.append('Tri')
+anak.append('Catur')
