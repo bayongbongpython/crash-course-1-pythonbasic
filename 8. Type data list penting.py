@@ -1,3 +1,4 @@
+#Type data Skalar = Tipe data sederhana
 anak1 = 'Eko'
 anak2 = 'Dwi'
 anak3 = 'Tri'
