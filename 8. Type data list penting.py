@@ -15,3 +15,5 @@ print(anak)
 anak.append('Panca')
 print(anak)
 
+# Sapa anak ke-2
+print(f'Hai {anak[1]}!')
