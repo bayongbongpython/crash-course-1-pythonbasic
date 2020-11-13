@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../crash-course-2-modularisasi/.idea/crash-course-2-modularisasi.iml" filepath="$PROJECT_DIR$/../crash-course-2-modularisasi/.idea/crash-course-2-modularisasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/crashcourse-1-pythonbasic.iml" filepath="$PROJECT_DIR$/.idea/crashcourse-1-pythonbasic.iml" />
+    </modules>
+  </component>
+</project>
